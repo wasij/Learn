@@ -1,0 +1,6 @@
+Impact on below mentioned functionalities
+1. No impact on A2C
+2. Download Template in Hosted Catalog
+3. Download Template in Pricebook
+4. Upload Line in Hosted Catalog
+5. Upload Line in Pricebook

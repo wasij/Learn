@@ -1,0 +1,10 @@
+Impact on below mentioned functionalities
+1. synonym functionality. 
+2. user culture. 
+3. basic settings should reflect on UI when changed in db and cache cleared. 
+4. user mapped suppliers should be defaulted in filters while searching. 
+5. tax applicable for user should be reflected.
+6. user's headerorg, budget, access control
+7. user's wishlists loading
+8. recent searches
+9. manage catalog button show/hide according to design

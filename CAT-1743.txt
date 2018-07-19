@@ -1,0 +1,8 @@
+Impact on below mentioned functionalities
+1. Sharing of Lines in Requester View Catalog
+2. Filtering of Sharing entities in hosted Catalog share popup 
+3. Upload lines validation against sharing entity
+4. Pricebook sharing capability
+5. No impact on A2C
+6. Plant at Line level
+7. Storing division at Line level
